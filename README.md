@@ -3,7 +3,7 @@
 
 標準入力から読み込んだ数字を足す。
 
-##Quick trial
+## Quick trial
 ~/.ssh/robosys2023$ seq 3 | ./plus
 6
 
