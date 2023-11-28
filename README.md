@@ -1,9 +1,5 @@
-# robosys2023
-ロボットシステム学の練習リポジトリ
-
 # plusコマンド
 ![test](https://github.com/kaitoakiyama/robosys2023/actions/workflows/test.yml/badge.svg)
-↑テスト結果を反映したバッジの画像が埋め込まれる
 
 標準入力から読み込んだ数字を足す。
 
