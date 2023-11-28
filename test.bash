@@ -1,5 +1,5 @@
 #!/bin/bash -xiv
-# SPDX-FileCopyrightText: 2023 Kaito Akiyama
+# SPDX-FileCopyrightText: 2022 Ryuichi Ueda
 # SPDX-License-Identifier: BSD-3-Claunse
 
 ng () {
