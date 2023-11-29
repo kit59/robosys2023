@@ -11,6 +11,11 @@ $ seq 6 | ./plus
 21
 ```
 
+## Install
+```
+$ git clone git@github.com:kit59/robosys2023.git
+```
+
 ## 必要なソフトウェア
 * Python
   * テスト済み: 3.7～3.10
