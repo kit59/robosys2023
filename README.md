@@ -1,9 +1,10 @@
 # plusコマンド
 ![test](https://github.com/kit59/robosys2023/actions/workflows/test.yml/badge.svg)
 
-標準入力から読み込んだ数字を足す。
+標準入力から読み込んだ数字を足す.
 
 ## Quick trial
+実行例をいくつか紹介する.３を入力すると１+２+３で６を, ６を入力すると１+２+３+４+５+６で21が出力される.
 ```
 $ seq 3 | ./plus
 6
@@ -12,6 +13,7 @@ $ seq 6 | ./plus
 ```
 
 ## Install
+下記を実行するとリポジトリがクローンされる.
 ```
 $ git clone https://github.com/kit59/robosys2023.git
 ```
