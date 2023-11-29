@@ -13,7 +13,7 @@ $ seq 6 | ./plus
 
 ## Install
 ```
-git clone git@github.com:kit59/robosys2023.git
+$ git clone git@github.com:kit59/robosys2023.git
 ```
 
 ## 必要なソフトウェア
