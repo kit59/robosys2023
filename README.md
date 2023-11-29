@@ -12,8 +12,9 @@ $ seq 6 | ./plus
 ```
 
 ## Install
-
-git clone https://github.com:kit59/robosys2023.git
+```
+git clone https://github.com/kit59/robosys2023.git
+```
 
 ## 必要なソフトウェア
 * Python
